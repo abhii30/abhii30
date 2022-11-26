@@ -142,7 +142,7 @@
  
   <br/>
   <p align="center">
-    <a href="https://github.com/Abhii30"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhii30&show_icons=true&locale=en&theme=algolia" alt="Abhii30" height="192px"/></a>
+    <a href="https://github.com/abhii30"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhii30&show_icons=true&locale=en&theme=algolia" alt="abhii30" height="192px"/></a>
 	</p>
 	<p  align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhii30&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Abhii30" height="192px"/>
