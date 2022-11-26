@@ -28,6 +28,10 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
+	 <a href="https://docs.python.org/3/" target="_blank"> 
+     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flate&logo=python&logoColor=ffdd54">
+   </a>
+  &emsp;
 </p>
 
 ### 👉 Frontend Development
@@ -47,7 +51,7 @@
   </a>
 &emsp; 
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/.svg?style=flat&logo=tailwind&logoColor=white"/>
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"/>
   </a>
 &emsp; 
 </p>
@@ -71,9 +75,11 @@
 ### 👉 Frameworks
 <p align="left">
 
-&emsp;&ensp;![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-&emsp;&ensp;![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-&emsp;&ensp;![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white)
+&emsp;&ensp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+&emsp;&ensp;![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+&emsp;&ensp;![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+&emsp;&ensp;![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
+&emsp;&ensp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 </p>
 
 
