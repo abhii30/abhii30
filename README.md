@@ -1,15 +1,14 @@
 <h1 align="center">Hi , I'm Abhishek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
-</p>
-<hr/>
-<h4 align="center">I am a Senior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Candida's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+</p> I like to Code, Design, Innovate and Experiment. I am an enthusiastic who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<br/>
+<br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhii30&label=Profile%20Views%20&color=dc143c&style=plastic" alt="Abhii30" /> </p>
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhii30&theme=algolia" alt="Abhii30" /></p>
 
 ## 🛠️ My Skills
 
@@ -29,18 +28,6 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
-&emsp; 
 </p>
 
 ### 👉 Frontend Development
@@ -59,6 +46,10 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
 &emsp; 
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/.svg?style=flat&logo=tailwind&logoColor=white"/>
+  </a>
+&emsp; 
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -67,7 +58,7 @@
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/></a>
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
   &emsp;
