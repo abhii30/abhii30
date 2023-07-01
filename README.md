@@ -15,7 +15,6 @@
 
 -  Reach me at **akumar300599@gmail.com**
 
-- 
 <br/>
 <br/>
 <br/>
