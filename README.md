@@ -1,11 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Abhishek </h1>
-<h3 align="center" >An enthusiastic developer from INDIA</h3>
+<h3 align="center" >A passionate developer from INDIA &#127470;&#127475</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhii30&label=Profile%20views&color=0e75b6&style=flat" alt="abhii30" /> </p>
 <a target="_blank" align="center" style="margin-left: 10px">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-<br/>
-<br/>
 
 -  I like to Code, Design, Innovate and Experiment
   
@@ -15,8 +13,6 @@
 
 -  Reach me at **akumar300599@gmail.com**
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
