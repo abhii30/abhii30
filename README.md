@@ -13,6 +13,9 @@
   
 -  I love meeting new people, exchanging ideas and spreading knowledge and positivity
 
+-  Reach me at **akumar300599@gmail.com**
+
+- 
 <br/>
 <br/>
 <br/>
