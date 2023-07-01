@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Abhishek </h1>
 <h3 align="center" >An enthusiastic developer from INDIA</h3>
-<a target="_blank" align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhii30&label=Profile%20views&color=0e75b6&style=flat" alt="abhii30" /> </p>
+<a target="_blank" align="center" style="margin-left: 10px">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <br/>
@@ -18,6 +19,18 @@
 <br/>
 <br/>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhii30&label=Profile%20Views%20&color=dc143c&style=plastic" alt="Abhii30" /> </p> -->
+
+## 🤝 Let's Connect
+
+<p align="center">
+	<a href="mailto:akumar300599@gmail.com"><img src="https://img.icons8.com/doodle/40/000000/gmail--v1.png" /></a> 
+	<a href="https://github.com/Abhii30"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	<a href="https://www.linkedin.com/in/abhii30/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+ 	<a href="https://twitter.com/abhiz30"><img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" ></a>
+  	<a href="https://www.instagram.com/abhiz_30/"><img src="https://img.icons8.com/doodle/40/000000/instagram--v2.png" ></a>
+  
+	
+</p>
 
 ## 🛠️ My Skills
 
@@ -147,13 +160,6 @@
 
 <br/>
 
-## 🤝 Let's Connect
 
-<p align="center">
-	<a href="mailto:akumar300599@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Abhii30"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/abhii30/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	
-</p>
 
 <!--img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;"/-->
