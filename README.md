@@ -1,14 +1,23 @@
-<h1 align="center">Hi , I'm Abhishek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Designer;Always%20learning&center=true&width=500&height=50&font=georgia">
-</p> I like to Code, Design, Innovate and Experiment. I am an enthusiastic who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Abhishek </h1>
+<h3 align="center" >An enthusiastic developer from INDIA</h3>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 <br/>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhii30&label=Profile%20Views%20&color=dc143c&style=plastic" alt="Abhii30" /> </p>
 
-## 🔥 Streak Stats
+-  I like to Code, Design, Innovate and Experiment
+  
+-  I am an enthusiastic who loves to take up new challenges and learn new skills
+  
+-  I love meeting new people, exchanging ideas and spreading knowledge and positivity
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhii30&theme=algolia" alt="Abhii30" /></p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhii30&label=Profile%20Views%20&color=dc143c&style=plastic" alt="Abhii30" /> </p> -->
 
 ## 🛠️ My Skills
 
@@ -138,20 +147,7 @@
 
 <br/>
 
-### 📊 Github Stats 
- 
-  <br/>
-  <p align="center">
-    <a href="https://github.com/abhii30"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhii30&show_icons=true&locale=en&theme=algolia" alt="abhii30" height="192px"/></a>
-	</p>
-	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhii30&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Abhii30" height="192px"/>
-	</p>
-  <br/>
-  </p>
-<br/>
-
-## 🙋‍♀️ Let's Connect
+## 🤝 Let's Connect
 
 <p align="center">
 	<a href="mailto:akumar300599@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
