@@ -100,6 +100,7 @@
 &emsp;&ensp;![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 &emsp;&ensp;![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
 &emsp;&ensp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+&emsp;&ensp;![VueJS](https://img.shields.io/badge/vue.js-6DA55F?style=flat&logo=vue.js&logoColor=white)
 </p>
 
 
